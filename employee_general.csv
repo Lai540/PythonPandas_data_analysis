@@ -1,0 +1,584 @@
+EmployeeNumber,Education,EducationField,MaritalStatus
+1,College,Life Sciences,Single
+2,Below College,Life Sciences,Married
+4,College,Other,Single
+5,Master,Life Sciences,Married
+7,Below College,Medical,Married
+8,College,Life Sciences,Single
+10,Bachelor,Medical,Married
+11,Below College,Life Sciences,Divorced
+12,Bachelor,Life Sciences,Single
+13,Bachelor,Medical,Married
+14,Bachelor,Medical,Married
+15,College,Life Sciences,Single
+16,Below College,Life Sciences,Divorced
+18,College,Medical,Divorced
+19,Bachelor,Life Sciences,Single
+20,Master,Life Sciences,Divorced
+21,College,Life Sciences,Divorced
+22,College,Medical,Divorced
+23,Master,Life Sciences,Married
+24,Bachelor,Life Sciences,Single
+26,College,Other,Divorced
+27,Master,Life Sciences,Single
+28,Master,Life Sciences,Single
+30,College,Life Sciences,Single
+31,Below College,Medical,Single
+32,Bachelor,Other,Divorced
+33,Below College,Life Sciences,Single
+35,Master,Marketing,Married
+36,Master,Medical,Married
+38,Master,Marketing,Single
+39,Bachelor,Medical,Single
+40,Master,Other,Married
+41,College,Medical,Single
+42,Bachelor,Technical Degree,Married
+45,Bachelor,Medical,Married
+46,College,Medical,Divorced
+47,College,Marketing,Married
+49,Bachelor,Marketing,Married
+51,Master,Life Sciences,Married
+52,Bachelor,Life Sciences,Married
+53,College,Other,Divorced
+54,Master,Life Sciences,Divorced
+55,Bachelor,Life Sciences,Single
+56,Bachelor,Life Sciences,Single
+57,College,Medical,Single
+58,Bachelor,Technical Degree,Married
+60,Master,Marketing,Single
+61,College,Life Sciences,Married
+62,Master,Marketing,Single
+63,Below College,Life Sciences,Married
+64,College,Life Sciences,Single
+65,Master,Technical Degree,Single
+68,Doctor,Marketing,Divorced
+70,College,Medical,Married
+72,Bachelor,Marketing,Married
+73,College,Life Sciences,Single
+74,Doctor,Life Sciences,Married
+75,Master,Medical,Married
+76,Master,Life Sciences,Divorced
+77,Master,Life Sciences,Divorced
+78,Bachelor,Medical,Married
+79,Doctor,Life Sciences,Single
+80,College,Medical,Divorced
+81,Bachelor,Life Sciences,Single
+83,Bachelor,Technical Degree,Divorced
+84,Bachelor,Medical,Divorced
+85,Bachelor,Life Sciences,Single
+86,Bachelor,Life Sciences,Divorced
+88,Bachelor,Medical,Married
+90,Bachelor,Medical,Married
+91,Below College,Life Sciences,Single
+94,Bachelor,Life Sciences,Married
+95,Master,Medical,Single
+96,Bachelor,Life Sciences,Married
+97,Bachelor,Life Sciences,Married
+98,Master,Life Sciences,Single
+100,Master,Marketing,Single
+101,Master,Other,Married
+102,Master,Medical,Single
+103,College,Medical,Divorced
+104,Below College,Life Sciences,Married
+105,Bachelor,Medical,Single
+106,College,Life Sciences,Married
+107,Bachelor,Medical,Divorced
+110,College,Medical,Married
+112,Bachelor,Life Sciences,Single
+113,Below College,Technical Degree,Divorced
+116,Master,Life Sciences,Married
+117,Bachelor,Life Sciences,Married
+118,College,Medical,Single
+119,Master,Life Sciences,Married
+120,Master,Marketing,Single
+121,College,Medical,Divorced
+124,Bachelor,Medical,Married
+125,Master,Medical,Single
+126,Master,Technical Degree,Married
+128,College,Other,Married
+129,Bachelor,Medical,Married
+131,Master,Medical,Single
+132,Bachelor,Medical,Married
+133,Master,Human Resources,Divorced
+134,Below College,Life Sciences,Single
+137,Bachelor,Life Sciences,Single
+138,Master,Other,Single
+139,College,Life Sciences,Divorced
+140,Master,Human Resources,Married
+141,Bachelor,Life Sciences,Married
+142,Bachelor,Marketing,Single
+143,Below College,Medical,Married
+144,Bachelor,Medical,Single
+145,Master,Medical,Single
+147,Bachelor,Life Sciences,Single
+148,Bachelor,Human Resources,Single
+150,Below College,Life Sciences,Married
+151,Master,Life Sciences,Divorced
+152,Bachelor,Life Sciences,Single
+153,Bachelor,Medical,Single
+154,College,Technical Degree,Married
+155,College,Life Sciences,Divorced
+158,College,Life Sciences,Married
+159,Bachelor,Life Sciences,Divorced
+160,College,Marketing,Married
+161,Master,Life Sciences,Married
+162,Bachelor,Life Sciences,Single
+163,Master,Life Sciences,Married
+164,Bachelor,Other,Married
+165,Master,Medical,Married
+167,Below College,Marketing,Single
+169,Below College,Technical Degree,Married
+170,Master,Medical,Married
+171,Bachelor,Medical,Single
+174,Bachelor,Marketing,Single
+175,Bachelor,Life Sciences,Married
+176,Below College,Life Sciences,Divorced
+177,Below College,Life Sciences,Married
+178,College,Medical,Divorced
+179,Master,Life Sciences,Single
+182,Master,Life Sciences,Married
+183,Bachelor,Life Sciences,Married
+184,Bachelor,Human Resources,Married
+190,Bachelor,Medical,Single
+192,Bachelor,Medical,Single
+193,Doctor,Technical Degree,Single
+194,Bachelor,Life Sciences,Single
+195,College,Medical,Divorced
+197,Bachelor,Technical Degree,Divorced
+198,Below College,Medical,Single
+199,Bachelor,Life Sciences,Divorced
+200,Master,Life Sciences,Married
+201,Below College,Medical,Single
+202,Bachelor,Medical,Divorced
+204,Doctor,Marketing,Married
+205,College,Marketing,Married
+206,Bachelor,Life Sciences,Divorced
+207,Bachelor,Marketing,Single
+208,Below College,Technical Degree,Married
+211,Master,Medical,Married
+214,Bachelor,Medical,Married
+215,Master,Marketing,Married
+216,Master,Marketing,Married
+217,Below College,Medical,Married
+218,Bachelor,Medical,Divorced
+221,Bachelor,Medical,Married
+223,College,Life Sciences,Divorced
+224,Bachelor,Medical,Divorced
+226,Bachelor,Life Sciences,Single
+227,Bachelor,Life Sciences,Divorced
+228,Bachelor,Life Sciences,Married
+230,Master,Life Sciences,Single
+231,Doctor,Life Sciences,Single
+233,Bachelor,Technical Degree,Married
+235,Below College,Technical Degree,Single
+238,College,Medical,Single
+239,Bachelor,Medical,Divorced
+240,College,Life Sciences,Divorced
+241,Bachelor,Life Sciences,Divorced
+242,Bachelor,Life Sciences,Single
+243,Bachelor,Life Sciences,Single
+244,College,Marketing,Divorced
+245,College,Life Sciences,Single
+246,Below College,Medical,Married
+247,College,Medical,Single
+248,College,Marketing,Single
+249,Bachelor,Medical,Married
+250,College,Medical,Divorced
+252,Bachelor,Medical,Married
+253,Below College,Medical,Married
+254,Master,Medical,Single
+256,Below College,Life Sciences,Married
+258,Bachelor,Medical,Single
+259,Master,Life Sciences,Married
+260,Bachelor,Medical,Single
+261,College,Life Sciences,Married
+262,Bachelor,Medical,Divorced
+264,College,Medical,Married
+267,Bachelor,Life Sciences,Married
+269,Bachelor,Medical,Single
+270,College,Medical,Divorced
+271,Master,Life Sciences,Married
+273,Bachelor,Technical Degree,Married
+274,Below College,Technical Degree,Married
+275,Master,Life Sciences,Divorced
+277,Master,Medical,Divorced
+281,College,Medical,Married
+282,Below College,Medical,Married
+283,Bachelor,Marketing,Married
+284,Bachelor,Life Sciences,Divorced
+286,Below College,Medical,Single
+287,Doctor,Life Sciences,Married
+288,Master,Medical,Divorced
+291,Master,Medical,Married
+292,Below College,Life Sciences,Single
+293,Bachelor,Life Sciences,Single
+296,Master,Life Sciences,Married
+297,Bachelor,Technical Degree,Single
+298,Bachelor,Life Sciences,Single
+299,Master,Marketing,Single
+300,Bachelor,Technical Degree,Single
+302,Bachelor,Medical,Single
+303,Bachelor,Marketing,Married
+304,College,Life Sciences,Single
+305,Master,Medical,Married
+306,Bachelor,Other,Divorced
+307,Bachelor,Life Sciences,Divorced
+308,Master,Medical,Married
+309,Bachelor,Life Sciences,Married
+311,Master,Marketing,Divorced
+312,Below College,Medical,Married
+314,Bachelor,Marketing,Single
+315,Below College,Medical,Single
+316,Bachelor,Life Sciences,Single
+319,College,Technical Degree,Married
+321,College,Medical,Married
+323,Master,Medical,Divorced
+325,Bachelor,Medical,Married
+327,Bachelor,Marketing,Married
+328,College,Life Sciences,Married
+329,Master,Life Sciences,Single
+330,College,Life Sciences,Married
+331,Bachelor,Life Sciences,Single
+332,Master,Medical,Divorced
+333,Master,Marketing,Married
+334,College,Life Sciences,Divorced
+335,College,Technical Degree,Divorced
+336,Bachelor,Other,Married
+337,Master,Medical,Divorced
+338,Master,Life Sciences,Married
+339,Master,Life Sciences,Married
+340,College,Medical,Married
+341,Master,Life Sciences,Married
+342,Bachelor,Medical,Divorced
+343,Master,Technical Degree,Single
+346,Bachelor,Life Sciences,Single
+347,College,Life Sciences,Single
+349,College,Marketing,Divorced
+350,Bachelor,Life Sciences,Married
+351,Bachelor,Medical,Divorced
+352,College,Medical,Divorced
+353,Bachelor,Life Sciences,Married
+355,College,Medical,Single
+359,Bachelor,Life Sciences,Married
+361,College,Life Sciences,Married
+362,Below College,Technical Degree,Single
+363,Bachelor,Technical Degree,Married
+364,Master,Life Sciences,Single
+366,Bachelor,Medical,Married
+367,Bachelor,Medical,Married
+369,College,Life Sciences,Divorced
+372,College,Medical,Married
+373,Bachelor,Life Sciences,Married
+374,Bachelor,Medical,Single
+376,Master,Life Sciences,Married
+377,Bachelor,Medical,Married
+378,Master,Medical,Married
+379,College,Medical,Single
+380,Master,Medical,Divorced
+381,Bachelor,Life Sciences,Divorced
+382,College,Medical,Divorced
+384,Bachelor,Life Sciences,Divorced
+385,Below College,Life Sciences,Divorced
+386,Master,Medical,Married
+387,Below College,Life Sciences,Married
+388,College,Life Sciences,Single
+389,College,Technical Degree,Married
+390,College,Medical,Married
+391,Bachelor,Life Sciences,Single
+392,Bachelor,Life Sciences,Divorced
+393,Master,Life Sciences,Divorced
+394,Master,Medical,Divorced
+395,College,Life Sciences,Single
+396,Master,Life Sciences,Single
+397,Bachelor,Technical Degree,Single
+399,Bachelor,Marketing,Divorced
+401,Master,Marketing,Single
+403,Bachelor,Medical,Married
+404,Bachelor,Marketing,Married
+405,Bachelor,Life Sciences,Single
+406,Bachelor,Marketing,Married
+407,Master,Life Sciences,Married
+408,Bachelor,Medical,Divorced
+410,Master,Life Sciences,Single
+411,Bachelor,Medical,Single
+412,College,Medical,Single
+416,Bachelor,Technical Degree,Married
+417,Bachelor,Medical,Divorced
+419,Master,Life Sciences,Married
+420,Bachelor,Life Sciences,Married
+421,College,Life Sciences,Married
+422,Master,Life Sciences,Divorced
+423,Master,Technical Degree,Married
+424,Bachelor,Human Resources,Married
+425,Bachelor,Life Sciences,Divorced
+426,Master,Life Sciences,Divorced
+428,Master,Life Sciences,Married
+429,Below College,Medical,Married
+430,Master,Life Sciences,Single
+431,College,Technical Degree,Single
+433,Master,Medical,Married
+434,Bachelor,Life Sciences,Single
+436,College,Technical Degree,Married
+437,Bachelor,Life Sciences,Single
+438,Bachelor,Marketing,Divorced
+439,Master,Medical,Single
+440,Master,Medical,Married
+441,College,Medical,Married
+442,College,Life Sciences,Married
+444,College,Medical,Married
+445,College,Medical,Married
+446,Bachelor,Marketing,Single
+447,Doctor,Life Sciences,Married
+448,Master,Life Sciences,Divorced
+449,Below College,Marketing,Married
+450,Master,Life Sciences,Single
+451,Bachelor,Life Sciences,Married
+452,Master,Other,Married
+453,College,Medical,Married
+454,Master,Other,Married
+455,Doctor,Other,Single
+456,Bachelor,Marketing,Divorced
+458,Master,Marketing,Married
+460,College,Medical,Divorced
+461,College,Life Sciences,Divorced
+462,Master,Medical,Single
+463,Below College,Marketing,Divorced
+464,Master,Technical Degree,Single
+465,Below College,Life Sciences,Divorced
+466,Bachelor,Medical,Single
+467,Below College,Medical,Single
+468,Doctor,Life Sciences,Single
+469,Bachelor,Life Sciences,Married
+470,Below College,Technical Degree,Divorced
+471,Bachelor,Medical,Married
+473,Below College,Medical,Married
+474,Bachelor,Medical,Divorced
+475,College,Technical Degree,Married
+476,Bachelor,Life Sciences,Married
+477,Master,Other,Single
+478,Below College,Technical Degree,Single
+479,Doctor,Medical,Single
+481,Master,Medical,Married
+482,Master,Medical,Married
+483,Master,Life Sciences,Married
+484,College,Medical,Single
+485,Bachelor,Marketing,Single
+486,Bachelor,Medical,Married
+487,Master,Medical,Married
+488,Bachelor,Marketing,Single
+491,Bachelor,Technical Degree,Single
+492,College,Marketing,Married
+493,Master,Life Sciences,Single
+494,Bachelor,Life Sciences,Single
+495,Bachelor,Life Sciences,Single
+496,Master,Life Sciences,Single
+497,College,Medical,Divorced
+498,Master,Life Sciences,Single
+499,Bachelor,Other,Single
+500,College,Life Sciences,Married
+501,Bachelor,Life Sciences,Married
+502,Bachelor,Marketing,Single
+505,Bachelor,Life Sciences,Single
+507,Master,Marketing,Divorced
+508,Below College,Technical Degree,Married
+510,Below College,Technical Degree,Single
+511,Bachelor,Medical,Married
+513,College,Medical,Married
+514,Bachelor,Technical Degree,Single
+515,Bachelor,Life Sciences,Divorced
+516,College,Marketing,Divorced
+517,Master,Life Sciences,Divorced
+518,Master,Life Sciences,Single
+520,Bachelor,Life Sciences,Divorced
+521,Bachelor,Medical,Married
+522,College,Medical,Married
+523,Master,Marketing,Married
+524,College,Medical,Married
+525,Bachelor,Medical,Married
+526,Master,Other,Divorced
+527,College,Life Sciences,Single
+529,Doctor,Medical,Married
+530,College,Life Sciences,Married
+531,Below College,Life Sciences,Divorced
+532,Bachelor,Life Sciences,Married
+533,Bachelor,Technical Degree,Single
+534,Bachelor,Marketing,Married
+536,College,Medical,Divorced
+538,Bachelor,Medical,Married
+543,Bachelor,Medical,Married
+544,College,Life Sciences,Married
+546,College,Life Sciences,Married
+547,College,Life Sciences,Divorced
+548,Bachelor,Life Sciences,Single
+549,Bachelor,Life Sciences,Married
+550,Bachelor,Medical,Divorced
+551,Master,Technical Degree,Married
+554,Below College,Technical Degree,Single
+555,College,Marketing,Divorced
+556,College,Life Sciences,Married
+558,Master,Life Sciences,Married
+560,Bachelor,Life Sciences,Divorced
+562,Bachelor,Life Sciences,Married
+564,Master,Medical,Married
+565,Doctor,Technical Degree,Married
+566,College,Technical Degree,Single
+567,Master,Other,Married
+568,Bachelor,Marketing,Divorced
+569,Master,Life Sciences,Married
+571,Bachelor,Medical,Single
+573,Bachelor,Marketing,Married
+574,College,Medical,Divorced
+575,Bachelor,Life Sciences,Married
+577,Bachelor,Life Sciences,Single
+578,Master,Life Sciences,Single
+579,Master,Life Sciences,Divorced
+580,Bachelor,Marketing,Married
+581,Below College,Life Sciences,Divorced
+582,Below College,Medical,Married
+584,Below College,Medical,Divorced
+585,Below College,Marketing,Single
+586,Bachelor,Life Sciences,Married
+587,Bachelor,Life Sciences,Married
+590,Bachelor,Human Resources,Divorced
+591,College,Other,Married
+592,Master,Medical,Single
+593,Below College,Technical Degree,Single
+595,Doctor,Marketing,Married
+597,Doctor,Life Sciences,Single
+599,College,Life Sciences,Single
+600,Bachelor,Marketing,Married
+601,Bachelor,Life Sciences,Single
+602,Below College,Life Sciences,Married
+604,Below College,Life Sciences,Single
+605,Bachelor,Medical,Married
+606,Bachelor,Other,Married
+608,Master,Life Sciences,Divorced
+611,Bachelor,Technical Degree,Divorced
+612,Doctor,Medical,Divorced
+613,Bachelor,Life Sciences,Divorced
+614,Bachelor,Marketing,Single
+615,Bachelor,Other,Divorced
+616,Master,Other,Single
+618,College,Medical,Divorced
+620,Bachelor,Medical,Single
+621,Master,Life Sciences,Single
+622,Bachelor,Technical Degree,Single
+623,Bachelor,Technical Degree,Single
+624,Below College,Medical,Married
+625,Doctor,Life Sciences,Married
+626,Master,Medical,Divorced
+630,College,Technical Degree,Divorced
+631,Master,Other,Married
+632,Bachelor,Medical,Married
+634,Bachelor,Medical,Married
+635,Master,Life Sciences,Married
+638,Master,Life Sciences,Divorced
+639,Bachelor,Medical,Married
+641,College,Marketing,Married
+643,College,Other,Married
+644,Bachelor,Medical,Married
+645,Below College,Medical,Married
+647,Bachelor,Life Sciences,Married
+648,Master,Life Sciences,Married
+649,College,Life Sciences,Married
+650,Master,Medical,Divorced
+652,College,Other,Single
+653,Master,Medical,Divorced
+655,Master,Medical,Divorced
+656,Bachelor,Marketing,Married
+657,Bachelor,Life Sciences,Single
+659,Master,Life Sciences,Married
+661,Master,Other,Divorced
+662,Below College,Life Sciences,Single
+663,Doctor,Medical,Divorced
+664,Master,Life Sciences,Married
+665,Master,Life Sciences,Single
+666,Bachelor,Technical Degree,Divorced
+667,Below College,Marketing,Divorced
+669,Below College,Technical Degree,Single
+671,Master,Other,Married
+675,Below College,Medical,Married
+677,Master,Marketing,Divorced
+679,Master,Life Sciences,Married
+680,Bachelor,Medical,Divorced
+682,Below College,Medical,Single
+683,Doctor,Life Sciences,Married
+684,Master,Life Sciences,Married
+686,Bachelor,Life Sciences,Married
+689,Bachelor,Other,Married
+690,College,Medical,Married
+691,Master,Life Sciences,Single
+692,Bachelor,Life Sciences,Divorced
+698,Master,Medical,Married
+699,College,Medical,Divorced
+700,Master,Medical,Single
+701,Below College,Medical,Single
+702,Bachelor,Life Sciences,Single
+704,Bachelor,Life Sciences,Married
+705,Bachelor,Medical,Married
+707,Bachelor,Life Sciences,Married
+709,Master,Marketing,Single
+710,Master,Life Sciences,Divorced
+712,Below College,Marketing,Married
+714,Below College,Medical,Divorced
+715,College,Life Sciences,Single
+716,Below College,Medical,Married
+717,Bachelor,Medical,Single
+720,College,Life Sciences,Single
+721,Master,Technical Degree,Single
+722,Bachelor,Marketing,Single
+723,College,Technical Degree,Married
+724,Master,Life Sciences,Single
+725,College,Life Sciences,Married
+727,College,Life Sciences,Single
+728,Master,Marketing,Single
+729,Master,Life Sciences,Married
+730,Bachelor,Life Sciences,Married
+2003, Master, Medical, Married
+2007, College, Life Sciences, Single
+2008, Master, Medical, Single
+2009, College, Medical, Married
+2010, Master, Life Sciences, Single
+2012, Master, Life Sciences, Married
+2013, Master, Medical, Married
+2014, Below College, Life Sciences, Single
+2015, Bachelor, Medical, Married
+2016, Master, Marketing, Married
+2017, Bachelor, Life Sciences, Married
+2018, College, Other, Divorced
+2019, Master, Life Sciences, Divorced
+2020, Bachelor, Medical, Single
+2021, Below College, Medical, Single
+2022, Bachelor, Life Sciences, Single
+2023, Bachelor, Marketing, Married
+2024, Bachelor, Medical, Married
+2025, College, Life Sciences, Divorced
+2026, Master, Life Sciences, Divorced
+2027, Master, Medical, Married
+2031, Bachelor, Life Sciences, Married
+2032, College, Technical Degree, Married
+2034, Master, Life Sciences, Married
+2035, Bachelor, Marketing, Married
+2036, Master, Marketing, Divorced
+2037, Bachelor, Life Sciences, Divorced
+2038, Bachelor, Technical Degree, Single
+2040, Master, Life Sciences, Single
+2041, College, Life Sciences, Married
+2044, Master, Life Sciences, Divorced
+2045, Master, Marketing, Married
+2046, Bachelor, Life Sciences, Single
+2048, Master, Life Sciences, Single
+2049, Master, Life Sciences, Married
+2051, Master, Medical, Married
+2052, Master, Life Sciences, Married
+2053, College, Other, Married
+2054, Master, Medical, Single
+2055, Bachelor, Marketing, Divorced
+2056, Below College, Marketing, Married
+2057, Bachelor, Medical, Single
+2060, Bachelor, Other, Single
+2061, College, Medical, Married
+2062, Below College, Medical, Married
+2064, Bachelor, Life Sciences, Married
+2065, Bachelor, Medical, Married
+2068, Bachelor, Medical, Married
